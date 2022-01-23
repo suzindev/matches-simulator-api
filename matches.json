@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://www.gaveanews.com/wp-content/uploads/Interior-do-estadio-Maracana.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://www.rbsdirect.com.br/filestore/9/3/7/4/3_6a0017af6ae2bf7/34739_c3b34dff86817ef.jpg?w=700"
     },
     "mandante": {
       "nome": "Uruguay",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://www.gaveanews.com/wp-content/uploads/Interior-do-estadio-Maracana.jpg"
     },
     "mandante": {
       "nome": "Brasil",
